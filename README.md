@@ -1,6 +1,8 @@
 ## Install
 - Python 3.8.10
 * MuJoCo 2.3.7
+
+<img width="962" height="861" alt="Figure2" src="https://github.com/user-attachments/assets/7e9fac91-2076-43e0-811a-1bdc899ca228" />  
   
   
 ## Running the SoftHand Model
@@ -17,6 +19,8 @@ By adjusting the Control Panel on the top-right of the MuJoCo interface, you can
 Changing these values allows you to observe the resulting finger motion and grasp behavior.
 
 <img width="2460" height="757" alt="Softhand_mujoco" src="https://github.com/user-attachments/assets/807550bc-14a0-436a-ac47-d14e50c81f40" />
+
+
 
 
 

@@ -2,7 +2,7 @@
 - Python 3.8.10
 * MuJoCo 2.3.7
 
-<img width="962" height="861" alt="Figure2" src="https://github.com/user-attachments/assets/7e9fac91-2076-43e0-811a-1bdc899ca228" />  
+<img width="300" height="280" alt="Figure2" src="https://github.com/user-attachments/assets/7e9fac91-2076-43e0-811a-1bdc899ca228" />  
   
   
 ## Running the SoftHand Model

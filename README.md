@@ -9,3 +9,17 @@ The robot COLIBRI in two different configurations is shown in the following figu
 
 <img width="1568" height="583" alt="image" src="https://github.com/user-attachments/assets/e31bd20b-494c-4182-a04f-9feabde8e0dd" />
 
+Please cite the following paper: 
+
+@article{Farid2023COLIBRI,
+  author = {Farid, Yousef and Wang, Liang and Brancato, Lorenzo and
+            Wang, Han and Wang, Kainan and Preumont, André},
+  title = {Robotic Hummingbird Axial Dynamics and Control near Hovering:
+           A Simulation Model},
+  journal = {Actuators},
+  volume = {12},
+  number = {7},
+  pages = {262},
+  year = {2023},
+  doi = {10.3390/act12070262}
+}

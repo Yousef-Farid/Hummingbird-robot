@@ -10,6 +10,8 @@ The robot COLIBRI in two different configurations is shown in the following figu
 <img width="1568" height="583" alt="image" src="https://github.com/user-attachments/assets/e31bd20b-494c-4182-a04f-9feabde8e0dd" />
 
 Please cite the following papers: 
+
 [J1] Yousef Farid, Liang Wang, Lorenzo Brancato, Han Wang, Kainan Wang, and André Preumont. Robotic Hummingbird Axial Dynamics and Control near Hovering: A Simulation Model, Actuators 12, no. 7: 262. 2023.
+
 [J2] Han Wang, Yousef Farid, Linang Wang, Emanuele Garone, André Preumont, Hovering Flight of a Robotic Hummingbird: Dynamic Observer and Flight Tests. Actuators 2024, 13, 91. https://doi.org/10.3390/act13030091.
 
